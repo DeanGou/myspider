@@ -73,7 +73,9 @@ public class Container {
 		return null;
 	}
 	
-	
+	public String testFunction(){
+		return "hello";
+	}
 	
 	
 	
